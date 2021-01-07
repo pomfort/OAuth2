@@ -590,6 +590,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -1112,7 +1113,7 @@
 				6598544D1C5B3BEA00237D39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		EEDB861E193FAAE500C4EEA1 /* Build configuration list for PBXProject "OAuth2" */ = {
 			isa = XCConfigurationList;
@@ -1121,7 +1122,7 @@
 				EEDB8639193FAAE500C4EEA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		EEDB863A193FAAE500C4EEA1 /* Build configuration list for PBXNativeTarget "OAuth2iOS" */ = {
 			isa = XCConfigurationList;
@@ -1130,7 +1131,7 @@
 				EEDB863C193FAAE500C4EEA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		EEE2095A1942772800736F1A /* Build configuration list for PBXNativeTarget "OAuth2macOS" */ = {
 			isa = XCConfigurationList;
@@ -1139,7 +1140,7 @@
 				EEE2095C1942772800736F1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		EEE209AB19427DFE00736F1A /* Build configuration list for PBXNativeTarget "OAuth2Tests" */ = {
 			isa = XCConfigurationList;
@@ -1148,7 +1149,7 @@
 				EEE209AD19427DFE00736F1A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};
