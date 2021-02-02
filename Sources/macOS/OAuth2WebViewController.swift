@@ -113,7 +113,7 @@ public class OAuth2WebViewController: NSViewController, WKNavigationDelegate, NS
 	internal static let webViewWindowWidth = CGFloat(600.0)
 	
 	/// Default web view window height; defaults to 500.
-	internal static let webViewWindowHeight = CGFloat(900.0)
+	internal static let webViewWindowHeight = CGFloat(575.0)
 	
 	/** Override to fully load the view; adds a `WKWebView`, optionally a dismiss button, and shows the loading indicator. */
 	override public func loadView() {
